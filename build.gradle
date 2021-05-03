@@ -21,7 +21,7 @@ idea {
 }
 
 group = 'com.jasonmcelhenney'
-version = '1.0'
+version = 'v1.0'
 archivesBaseName = 'disableScoreboardSidebar'
 
 sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8'
