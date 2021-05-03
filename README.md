@@ -3,6 +3,9 @@
 This is a very simple minecraft mod that allows the client to disable a server's scorebaord sidebar,
 if they so choose.
 ```
+**Minecraft Version**: ``1.16.5``
+
+Tested Forge Version: ``36.1.0``
 ## Commands
 
 ```
