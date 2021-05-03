@@ -74,7 +74,7 @@ public class DisableScoreboardSidebar {
             String commandStr = msg.substring(COMMAND_PREFIX.length());
             ClientPlayerEntity player = Minecraft.getInstance().player;
             ClientWorld world = Minecraft.getInstance().world;
-            TextComponent component = new StringTextComponent(String.format("> %s :", msg));
+            TextComponent component = new StringTextComponent(String.format("> %s >", msg));
             component.setStyle(component.getStyle()
                     .setFormatting(TextFormatting.ITALIC)
                     .func_244282_c(true)
